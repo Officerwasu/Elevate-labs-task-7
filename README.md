@@ -22,13 +22,13 @@ All three extensions were reviewed thoroughly and deemed safe. None of them had 
 ## Screenshots
 
 ### 1. Extensions Overview  
-![Extensions Overview](b8e0889c-ccfd-41d7-86ea-441e44835de6.png)
+![image](https://github.com/user-attachments/assets/d54c9320-98d8-4bf7-a67f-24e2bb31659c)
 
 ### 2. FoxyProxy Details  
-![FoxyProxy Details](3bcc7cbc-1b58-4dd8-9f2d-bfa0fa245f77.png)
+![image](https://github.com/user-attachments/assets/d01211bb-fc05-47cd-ac41-9760d4bdbfe1)
 
 ### 3. Privacy Badger Details  
-![Privacy Badger Details](14cbe908-a134-450c-acf4-ffe0604076fa.png)
+![image](https://github.com/user-attachments/assets/c0b2145f-0ea7-415c-af4d-04cec6facc4c)
 
 ---
 
